@@ -24,6 +24,6 @@
         android:id="@+id/spring"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Sprint" />
+        android:text="Spring" />
 
 </LinearLayout>
